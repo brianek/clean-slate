@@ -32,7 +32,16 @@ Developement guide:
 
 ---
 To Do:
-
 - Add Ineligible Felonies to Step #6 of the wizard
 - Add eligible misdemeanor or an ineligible misdemeanor/felony #8
 - Adding in additional steps that have not been completed based on the chart.
+=======
+-Add in a main page. Expunge.io is a great model to use. Two important notes: 1) Make sure to add in a section about  benefits-why you should seal your record. Feel free to add dummy comment and we can insert the 3 top reasons.  
+-Add in an entire site easily translated into spanish. Check http://www.expunge.io/for example
+-Add in a disclaimer page like this: http://www.expungemaryland.org/disclaimer
+-Add in a page on getting your arrest information. This page is a good example, but the Options can easily be presented in vertical boxes as a way to improve design. Maybe the vertical goes can be clickable and lead to more information. Here’s an example: http://www.expungemaryland.org/step2. Don’t worry about the content, you can use dumb content. 
+- Add Ineligible Felonies to Step #6 of the wizard
+- Add eligible misdemeanor or an ineligible misdemeanor/felony #8
+-Add comments to the code so it is obvious which each part of the code does. 
+-Add in definitions for words that are not-commonly understood. Definitions can be found below. 
+
